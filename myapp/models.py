@@ -1,8 +1,5 @@
 
-from email.policy import default
-from random import choices
-from secrets import choice
-from statistics import mode
+
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.models import User
 from django.db import models
